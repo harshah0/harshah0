@@ -8,6 +8,42 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
+## 📌 About Me
+- Name     : Veera Venkata Harsha Vardhan
+- Role     : Student Developer & ML Enthusiast
+- College  : VRSEC, JNTUK — B.Tech IT (2023–2027)
+- CGPA     : 8.71 / 10.0
+- Location : Kandukur, Andhra Pradesh, India 🇮🇳
+- Interests:
+- 🤖 Machine Learning & Deep Learning
+- 🌐 Full-Stack Web Development
+- ☁️ Cloud Computing (AWS)
+- ⚛️ Quantum Computing
+- 🧩 DSA & Competitive Programming
+- Currently:
+- 🔬 Building impactful AI/ML projects
+- 📚 Mastering System Design
+- 🚀 Open to SDE Internships (2025–26)
+
+
+## 🧠 My Focus Areas
+- ## 🚀 Focus Areas
+- ⚛️ **Quantum Computing**
+- Exploring quantum algorithms, Qiskit, and real-world applications of quantum systems.
+- 🤖 **Machine Learning & Deep Learning**
+- Building predictive models, working with neural networks, and solving real-world problems using AI.
+- 👁️ **Computer Vision**
+- Image classification, object detection, and visual intelligence using OpenCV & deep learning.
+- 🌐 **Full-Stack Development**
+- Developing scalable web apps using Flask, modern frontend, and REST APIs.
+- ☁️ **Cloud Computing (AWS)**
+- Learning deployment, cloud architecture, and scalable infrastructure.
+- 🧩 **DSA & Competitive Programming**
+- Strengthening problem-solving skills for coding interviews and contests.
+- 🏗️ **System Design**
+- Understanding scalable systems, architecture patterns, and backend design.
+
+
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/harshah0">
@@ -29,7 +65,8 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />
 
 </p>
 
@@ -47,7 +84,8 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="Flask" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="Flask" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" />
 
 </p>
 
